@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7847
     wikipedia: http://es.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18166#Amistad-funestaNovela
 gutenberg_issued: '2006-04-14'
 gutenberg_type: Text
 identifiers:
